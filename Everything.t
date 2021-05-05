@@ -1,0 +1,2 @@
+testcase everything()
+    print("Everything")
