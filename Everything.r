@@ -1,0 +1,2 @@
+Everything <- "Everything"
+print (Everything)
