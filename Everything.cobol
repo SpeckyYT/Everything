@@ -1,0 +1,8 @@
+IDENTIFICATION DIVISION.
+      PROGRAM-ID. EVERYTHING.
+      AUTHOR.     SynergyBest
+PROCEDURE DIVISION.
+      MAIN SECTION.
+      DISPLAY "Everything"
+      
+STOP RUN.
