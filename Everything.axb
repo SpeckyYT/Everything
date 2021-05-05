@@ -1,0 +1,2 @@
+' No xbasic syntax LLL
+ui_msg_box("The 'Everything' Collection", "Everything", UI_ATTENTION_SYMBOL
