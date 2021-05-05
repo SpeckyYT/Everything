@@ -1,0 +1,4 @@
+'BEGIN'
+   'COMMENT' No syntax in github LLLLL;
+    OUTPUT(4,'(''('Everything')',/')')
+'END'
