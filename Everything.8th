@@ -1,3 +1,4 @@
 #!/usr/bin/env 8th
 : Everything "Everything\n" . ;
 Everything bye
+\ 8th syntax in github is scuffed AF
