@@ -1,0 +1,7 @@
+(#
+    (*
+     * No beta language support on github :(
+     *)
+    do
+       'Everything' -> putLine
+#)
