@@ -1,3 +1,3 @@
-program everything
-   print *, "Everything"
-end program everything
+PROGRAM everything
+   write(*,*) "Everything"
+END PROGRAM
